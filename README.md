@@ -38,7 +38,9 @@ Ask me anything at :
 <i>Random dev joke for you!</i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" />
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhiinavgupta&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true)
+<!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhiinavgupta&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true) -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiinavgupta&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
 
