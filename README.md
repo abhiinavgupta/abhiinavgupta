@@ -28,7 +28,7 @@ Ask me anything at :
 ![Streak](https://streak-stats.demolab.com?user=abhiinavgupta)
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhiinavgupta&hide=contribs,issues&show_icons=true&hide_border=true" alt="abhinav's github stats" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiinavgupta&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel--sigma-five.app/api/top-langs/?username=abhiinavgupta&layout=compact&hide_border=true" />
 
 <p align="center"> 
   Visitor count<br>
